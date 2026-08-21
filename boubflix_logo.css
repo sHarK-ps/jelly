@@ -1,6 +1,6 @@
 /* Replace Logo with streamberry logo, this should be the last line in CSS */
 :root {
-    --logo: url("https://cdn.jsdelivr.net/gh/jmaillot/jelly/boubflix.png");
+    --logo: url("https://cdn.jsdelivr.net/gh/sHarK-ps/jelly/boubflix.png");
 }
 
 .pageTitleWithDefaultLogo {
